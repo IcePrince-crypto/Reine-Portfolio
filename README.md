@@ -18,6 +18,13 @@ Welcome! I'm Reine, a Computer Information Systems graduate with a strong founda
 - 🔍 Passionate about hands-on learning, automation, and real-world problem solving
 - 📈 Actively seeking remote/hybrid IT support roles
 
+## 🤝 Collaboration
+
+Worked directly with Professor Derek Harter on:
+- Debugging and optimizing containerized code
+- Version control workflows using GitHub
+- Applying theoretical concepts to practical simulations
+
 ## 📬 Let’s Connect
 
 Feel free to explore each project and reach out if you'd like to collaborate or learn more!
