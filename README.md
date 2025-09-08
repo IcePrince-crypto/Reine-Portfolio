@@ -6,8 +6,7 @@ Welcome! I'm Reine, a Computer Information Systems graduate with a strong founda
 
 | Project | Description |
 |--------|-------------|
-| [Python Calculator](#) | A command-line calculator with input validation and modular design. |
-| [Library Management System](#) | An organized library management system I created as part of my Python programming class. |
+| [Python Calculator](https://github.com/IcePrince-crypto/python-calculator) | A command-line calculator with input validation and modular design. |
 | [Logisim Projects](#) | Digital logic simulations including a seven-segment decoder and fetch-execute cycle. |
 | [Higher Cosmos E-Commerce](#) | Flask-based online store with database integration and user interface design. |
 | [Research Proposal – Engagement](#) | Academic study on student motivation and learning outcomes. |
